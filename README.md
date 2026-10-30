@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá! Eu sou Alice 👋
 
-<!--
-**aliceareiss/aliceareiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e uma entusiasta de tecnologia. Atualmente estou focada em aprimorar minhas habilidades em desenvolvimento e estruturação de software.
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas na UNICID.
+- 💻 Focando meus estudos em [ex: Python, Lógica de Programação, Banco de Dados].
+- 💡 Buscando minha primeira oportunidade de estágio na área de tecnologia.
+- 📫 Como me encontrar: [https://www.linkedin.com/in/aliceareiss]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+
+- Python
+- SQL
+- Banco de dados 
+- C 
+- HTML 
+- Linux
+- Algoritmos
